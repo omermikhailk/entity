@@ -1,8 +1,8 @@
 # entity
 
-A mass repository cloner for GitHub, Gitlab and Gitea.
+A mass repository cloner for various git repository services.
 
-# What sites are currently supported
+# What sites are supported?
 
 Currently it's only GitHub, however I plan to soon add Gitlab and Gitea too.
 
