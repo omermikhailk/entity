@@ -4,6 +4,9 @@ import argparse
 description = """Mass clones all of the repositories for a given user or
 organisation.
 
+Cloned repos are stored in a folder, `git_user`, in the current working
+directory.
+
 Currently supported sites are:
     - GitHub."""
 
