@@ -41,3 +41,6 @@ options:
 - Possible `config.py` file
     - Since some instances of services may require auth? Not sure.
     - `RATE_LIMIT` variable
+    - `MAX_REPOS` variable
+- Add pagination logic for GitHub, since the API doesn't return everything
+in one chunk
