@@ -8,7 +8,7 @@ from os import environ
 # Strings for text colouring
 CLR_RED = "\033[91m"
 CLR_YLW = "\033[93m"
-CLR_GRN = '\033[92m'
+CLR_GRN = "\033[92m"
 CLR_STD = "\033[0m"
 
 

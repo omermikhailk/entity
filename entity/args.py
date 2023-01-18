@@ -19,8 +19,7 @@ def initialise_args() -> argparse.Namespace:
     Initialises all of the needed arguments for the program.
     """
     parser = argparse.ArgumentParser(
-        description=description,
-        formatter_class=argparse.RawTextHelpFormatter
+        description=description, formatter_class=argparse.RawTextHelpFormatter
     )
 
     parser.add_argument("git_user", help=help_git_user)
